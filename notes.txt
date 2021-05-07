@@ -1,0 +1,11 @@
+1.alternative to javascript
+2.allow us to use strict types
+3.we should compile it since browser dont understand typescript
+4.support modern features(arrow functions, let, const)
+5.extra features(generics, interfaces, tuples etc)
+
+things to know
+javascript
+    arrow functions
+    DOM
+    Classes
