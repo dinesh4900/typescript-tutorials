@@ -5,7 +5,7 @@
 5.extra features(generics, interfaces, tuples etc)
 
 things to know
-javascript
-    arrow functions
+Javascript
     DOM
+    Arrow functions
     Classes
